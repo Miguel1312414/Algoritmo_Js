@@ -146,7 +146,7 @@ function prommateria(){
     }
         else {
 
-            alert("Su promedio es: "+ PM + " aprobaste la amteria.")
+            alert("Su promedio es: "+ PM + " aprobaste la materia.")
         }
 
 }
